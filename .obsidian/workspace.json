@@ -11,10 +11,14 @@
             "id": "5e44360320c0b345",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TRUE THINGS/不等式.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "不等式"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
+                "file": "TRUE THINGS/不等式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-04-20 02.29.48.excalidraw 的大纲"
+              "title": "不等式 的大纲"
             }
           },
           {
@@ -176,11 +180,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fe998a228c1bc91",
+  "active": "5e44360320c0b345",
   "lastOpenFiles": [
+    "TRUE THINGS/不等式.md",
+    "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
     "29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
     "RUBBISH/excalidraw 26-04-20 02.30.42.ex",
     "RUBBISH/29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
@@ -202,7 +209,6 @@
     "未命名 5.md",
     "RUBBISH",
     "TRUE THINGS",
-    "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
     "Excalidraw/Drawing 2026-04-20 02.30.23.excalidraw.md",
     "哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
     "Excalidraw",
