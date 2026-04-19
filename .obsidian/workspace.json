@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RUBBISH/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Test 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,8 +179,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b54fcff42f522c7f",
+  "active": "414558c72a5d565a",
   "lastOpenFiles": [
+    "RUBBISH/Test.md",
     "RUBBISH/未命名.md",
     "RUBBISH/未命名.base",
     "TRUE THINGS/不等式.md",
@@ -196,7 +196,6 @@
     "RUBBISH/未命名 2.md",
     "RUBBISH/未命名 1.md",
     "RUBBISH/哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
-    "RUBBISH/Test.md",
     "RUBBISH/Pasted image 20260302025432.png",
     "RUBBISH/Pasted image 20260217212529.png",
     "RUBBISH/P5194.md",
