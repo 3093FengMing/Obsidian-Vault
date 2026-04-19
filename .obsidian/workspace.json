@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRUE THINGS/不等式.md",
+                "file": "RUBBISH/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不等式"
+              "title": "Test"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRUE THINGS/不等式.md",
+                "file": "RUBBISH/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "不等式 的大纲"
+              "title": "Test 的大纲"
             }
           },
           {
@@ -184,16 +184,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b54fcff42f522c7f",
+  "active": "5e44360320c0b345",
   "lastOpenFiles": [
+    "RUBBISH/未命名.md",
+    "RUBBISH/未命名.base",
     "TRUE THINGS/不等式.md",
     "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
     "29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
     "RUBBISH/excalidraw 26-04-20 02.30.42.ex",
     "RUBBISH/29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
     "RUBBISH/通项公式.md",
-    "RUBBISH/未命名.md",
-    "RUBBISH/未命名.base",
     "RUBBISH/未命名 5.md",
     "RUBBISH/未命名 4.md",
     "RUBBISH/未命名 3.md",
