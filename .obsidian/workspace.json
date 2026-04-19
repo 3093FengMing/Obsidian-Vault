@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e44360320c0b345",
+  "active": "b54fcff42f522c7f",
   "lastOpenFiles": [
     "TRUE THINGS/不等式.md",
     "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
