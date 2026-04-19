@@ -11,12 +11,14 @@
             "id": "1428c3586c7855ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260217212529.png"
+                "file": "哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260217212529"
+              "icon": "lucide-file",
+              "title": "哈佛附小数学竞赛（中文翻译版）· 答题卷"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "1428c3586c7855ac",
   "lastOpenFiles": [
+    "Pasted image 20260217212529.png",
     "未命名 1.md",
     "未命名 2.md",
     "未命名 3.md",
@@ -194,7 +197,6 @@
     "未命名.base",
     "哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
     "Pasted image 20260302025432.png",
-    "Pasted image 20260217212529.png",
     "Test.md",
     "29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
     "P5194.md",
