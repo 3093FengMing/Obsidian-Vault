@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41690beb858646e0",
+        "id": "7fbea2353cf7d82b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b53ec8a813fe35",
+            "id": "5e44360320c0b345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 5"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 5.md",
+                "file": "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 5 的大纲"
+              "title": "Drawing 2026-04-20 02.29.48.excalidraw 的大纲"
             }
           },
           {
@@ -183,12 +179,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7b53ec8a813fe35",
+  "active": "9fe998a228c1bc91",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
+    "29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
+    "RUBBISH/excalidraw 26-04-20 02.30.42.ex",
+    "RUBBISH/29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
+    "RUBBISH/通项公式.md",
+    "RUBBISH/未命名.md",
+    "RUBBISH/未命名.base",
+    "RUBBISH/未命名 5.md",
+    "RUBBISH/未命名 4.md",
+    "RUBBISH/未命名 3.md",
+    "RUBBISH/未命名 2.md",
+    "RUBBISH/未命名 1.md",
+    "RUBBISH/哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
+    "RUBBISH/Test.md",
+    "RUBBISH/Pasted image 20260302025432.png",
+    "RUBBISH/Pasted image 20260217212529.png",
+    "RUBBISH/P5194.md",
+    "RUBBISH/original.jpg",
     "excalidraw 26-04-20 02.30.42.ex",
-    "Excalidraw/Drawing 2026-04-20 02.30.23.excalidraw.md",
     "未命名 5.md",
+    "RUBBISH",
+    "TRUE THINGS",
+    "Excalidraw/Drawing 2026-04-20 02.29.48.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-20 02.30.23.excalidraw.md",
     "哈佛附小数学竞赛（中文翻译版）· 答题卷.md",
     "Excalidraw",
     "Pasted image 20260217212529.png",
@@ -202,7 +217,6 @@
     "未命名.base",
     "Pasted image 20260302025432.png",
     "Test.md",
-    "29c01bd8a9aa35254296a5c52da7d6f6_720.jpg",
     "P5194.md",
     "original.jpg",
     "欢迎.md",
