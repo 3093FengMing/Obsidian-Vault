@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUBBISH/Test.md",
+                "file": "TRUE THINGS/不等式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "不等式"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "active": "45ca8cb7a07003cd",
   "lastOpenFiles": [
+    "RUBBISH/Test.md",
     "TRUE THINGS/不等式.md"
   ]
 }
