@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0a9612d3ce4d3f",
+        "id": "bdad184dc2bbb67e",
         "type": "tabs",
         "children": [
           {
-            "id": "34071708a8d8683b",
+            "id": "b30583b87bd09ec1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TRUE THINGS/题目.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "题目"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -181,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34071708a8d8683b",
+  "active": "b54fcff42f522c7f",
   "lastOpenFiles": [
     "TRUE THINGS/题目.md",
     "TRUE THINGS/题目.pdf",
