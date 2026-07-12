@@ -4,20 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aaeaa61c8aea6d24",
+        "id": "7e0a9612d3ce4d3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3571b59a96a82d40",
+            "id": "34071708a8d8683b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TRUE THINGS/题目.md",
-                "mode": "source",
-                "source": false
+                "file": "TRUE THINGS/题目.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "题目"
             }
           }
@@ -165,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3571b59a96a82d40",
+  "active": "34071708a8d8683b",
   "lastOpenFiles": [
-    "TRUE THINGS/不等式.md",
     "TRUE THINGS/题目.md",
+    "TRUE THINGS/题目.pdf",
+    "TRUE THINGS/不等式.md",
     "引理1.md",
     "未命名.md",
     "RUBBISH/Test.md",
@@ -227,7 +225,6 @@
     "Test.md",
     "P5194.md",
     "original.jpg",
-    "欢迎.md",
     "6507bfe593ad9e3ff5721d8357c4b327.jpg"
   ]
 }
